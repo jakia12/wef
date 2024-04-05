@@ -73,8 +73,8 @@
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--main
   .elementor-item:focus {
-  color: #ff8736;
-  fill: #ff8736;
+  color: #ed8a9e;
+  fill: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
@@ -84,7 +84,7 @@
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--main:not(.e--pointer-framed)
   .elementor-item:after {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
@@ -94,13 +94,13 @@
   .elementor-element.elementor-element-faa69a6
   .e--pointer-framed
   .elementor-item:after {
-  border-color: #ff8736;
+  border-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--main
   .elementor-item.elementor-item-active {
-  color: #ff8736;
+  color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
@@ -110,7 +110,7 @@
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--main:not(.e--pointer-framed)
   .elementor-item.elementor-item-active:after {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
@@ -120,7 +120,7 @@
   .elementor-element.elementor-element-faa69a6
   .e--pointer-framed
   .elementor-item.elementor-item-active:after {
-  border-color: #ff8736;
+  border-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
@@ -160,25 +160,25 @@
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--dropdown
   a.highlighted {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
   .elementor-nav-menu--dropdown
   a.elementor-item-active {
   color: #ffffff;
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
   div.elementor-menu-toggle {
-  color: #ff8736;
+  color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-faa69a6
   div.elementor-menu-toggle
   svg {
-  fill: #ff8736;
+  fill: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-faa69a6 {
   width: auto;
@@ -203,14 +203,14 @@
   .elementor-icon-list-item:hover
   .elementor-icon-list-icon
   i {
-  color: #ff8736;
+  color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-12e9a1d
   .elementor-icon-list-item:hover
   .elementor-icon-list-icon
   svg {
-  fill: #ff8736;
+  fill: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-12e9a1d {
   --e-icon-list-icon-size: 28px;
@@ -249,7 +249,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-image: var(--e-bg-lazyload-loaded);
-  --e-bg-lazyload: url("./iamges/bg.jpg");
+  --e-bg-lazyload: url("./iamges/back.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -274,7 +274,7 @@
   > .elementor-motion-effects-layer::before {
   --background-overlay: "";
   background-color: transparent;
-  background-image: linear-gradient(270deg, #ff8736 0%, #000000 60%);
+  background-image: linear-gradient(270deg, #ffb0f7 0%, #000000 60%);
 }
 .elementor-2 .elementor-element.elementor-element-4037045,
 .elementor-2 .elementor-element.elementor-element-4037045::before {
@@ -335,7 +335,7 @@
   font-size: 26px;
   fill: #000000;
   color: #000000;
-  background-color: #ff8736;
+  background-color: #ed8a9e;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
 }
 .elementor-2
@@ -344,7 +344,7 @@
 .elementor-2
   .elementor-element.elementor-element-7a8ea58
   .elementor-button:focus {
-  color: #ff8736;
+  color: #ed8a9e;
   background-color: #000000;
 }
 .elementor-2
@@ -355,7 +355,7 @@
   .elementor-element.elementor-element-7a8ea58
   .elementor-button:focus
   svg {
-  fill: #ff8736;
+  fill: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-68ab31a {
   --display: flex;
@@ -410,7 +410,7 @@
 .elementor-2
   .elementor-element.elementor-element-257d8f5
   .elementor-heading-title {
-  color: #ff8736;
+  color: #ed8a9e;
   font-family: "Original Surfer", Sans-serif;
   font-size: 80px;
 }
@@ -450,7 +450,7 @@
 .elementor-2
   .elementor-element.elementor-element-6e0ded5
   .elementor-heading-title {
-  color: #ff8736;
+  color: #ed8a9e;
   font-family: "Original Surfer", Sans-serif;
   font-size: 80px;
 }
@@ -483,8 +483,8 @@
   --border-inline-end-width: 4px;
   --border-block-end-width: 4px;
   --border-inline-start-width: 4px;
-  border-color: #ff8736;
-  --border-color: #ff8736;
+  border-color: #ed8a9e;
+  --border-color: #ed8a9e;
   --border-radius: 30px 30px 30px 30px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
   --padding-block-start: 30px;
@@ -549,14 +549,14 @@ body:not(.rtl)
   .elementor-element.elementor-element-37b3186
   .elementor-icon-list-icon
   i {
-  color: #ff8736;
+  color: #ed8a9e;
   transition: color 0.3s;
 }
 .elementor-2
   .elementor-element.elementor-element-37b3186
   .elementor-icon-list-icon
   svg {
-  fill: #ff8736;
+  fill: #ed8a9e;
   transition: fill 0.3s;
 }
 .elementor-2 .elementor-element.elementor-element-37b3186 {
@@ -590,8 +590,8 @@ body:not(.rtl)
   --border-inline-end-width: 4px;
   --border-block-end-width: 4px;
   --border-inline-start-width: 4px;
-  border-color: #ff8736;
-  --border-color: #ff8736;
+  border-color: #ed8a9e;
+  --border-color: #ed8a9e;
   --border-radius: 30px 30px 30px 30px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
   --padding-block-start: 30px;
@@ -685,7 +685,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-27bd641
   .elementor-heading-title {
-  color: #ff8736;
+  color: #ed8a9e;
   font-family: "Original Surfer", Sans-serif;
   font-size: 80px;
 }
@@ -719,7 +719,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-50dd3e8.elementor-view-stacked
   .elementor-icon {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-50dd3e8.elementor-view-framed
@@ -727,9 +727,9 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-50dd3e8.elementor-view-default
   .elementor-icon {
-  fill: #ff8736;
-  color: #ff8736;
-  border-color: #ff8736;
+  fill: #ed8a9e;
+  color: #ed8a9e;
+  border-color: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-50dd3e8 {
   --icon-box-icon-margin: 15px;
@@ -756,7 +756,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-bde67c0.elementor-view-stacked
   .elementor-icon {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-bde67c0.elementor-view-framed
@@ -764,9 +764,9 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-bde67c0.elementor-view-default
   .elementor-icon {
-  fill: #ff8736;
-  color: #ff8736;
-  border-color: #ff8736;
+  fill: #ed8a9e;
+  color: #ed8a9e;
+  border-color: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-bde67c0 {
   --icon-box-icon-margin: 15px;
@@ -793,7 +793,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-c395e34.elementor-view-stacked
   .elementor-icon {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-c395e34.elementor-view-framed
@@ -801,9 +801,9 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-c395e34.elementor-view-default
   .elementor-icon {
-  fill: #ff8736;
-  color: #ff8736;
-  border-color: #ff8736;
+  fill: #ed8a9e;
+  color: #ed8a9e;
+  border-color: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-c395e34 {
   --icon-box-icon-margin: 15px;
@@ -858,7 +858,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-81a7d89
   .elementor-heading-title {
-  color: #ff8736;
+  color: #ed8a9e;
   font-family: "Original Surfer", Sans-serif;
   font-size: 80px;
 }
@@ -963,7 +963,7 @@ body:not(.rtl)
   .timeline-item__card-title {
   font-family: "Original Surfer", Sans-serif;
   font-size: 32px;
-  color: #ff8736;
+  color: #ed8a9e;
 }
 .elementor-2
   .elementor-element.elementor-element-ff42625
@@ -976,7 +976,7 @@ body:not(.rtl)
   .timeline-item__point-content {
   height: 40px;
   width: 40px;
-  color: #ff8736;
+  color: #ed8a9e;
   background-color: #000000;
 }
 .elementor-2
@@ -1005,7 +1005,7 @@ body:not(.rtl)
 .elementor-2
   .elementor-element.elementor-element-ff42625
   .jet-timeline__line-progress {
-  background-color: #ff8736;
+  background-color: #ed8a9e;
 }
 .elementor-2 .elementor-element.elementor-element-e847fd6 {
   --display: flex;
